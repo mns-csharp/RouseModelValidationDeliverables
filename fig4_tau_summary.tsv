@@ -1,0 +1,7 @@
+N	tau_R	tau_R_err	valid	method
+25	25.406244	1.151542	False	UNRELIABLE (gR_late=-0.009, noise-dominated)
+50	124.087213	5.682826	False	UNRELIABLE (gR_late=-0.032, noise-dominated)
+75	311.068349	35.842807	False	UNRELIABLE (gR_late=-0.025, noise-dominated)
+100	786.468445	82.128386	False	UNRELIABLE (gR_late=-0.099, noise-dominated)
+200	20308.645640	727.195227	True	exp fit (R2=0.501)
+400	67508.910188	6750.891019	True	1/e crossing
