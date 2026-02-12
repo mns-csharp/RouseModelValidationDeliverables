@@ -62,5 +62,4 @@
   - The resulting two-point fit gives β ≈ 1.73 (20.5% below expected 2.18).  
   - N=400 chain (τ_R ≈ 67k sweeps) has likely not fully relaxed within the 100k sweep simulation time, contributing to the underestimate.
 
-**Recommendation:**  
-For reliable τ_R scaling, future runs should use significantly longer simulation times (≥ 5–10 × τ_R) for N ≥ 200, and/or include longer chains (N=800, 1600) if computational resources allow.
+
